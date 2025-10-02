@@ -1,0 +1,13 @@
+1. esimene ridaöö
+2. teine rida
+3. kolmas rida
+4. neljas rida
+5. viies rida
+6. kuues rida
+6. kuues rida
+Hello Worldlisan käsitsi rida
+Hello Worldlisan käsitsi rida
+Hello WorldHello WorldLogifailis on 10 rida.
+Logifailis on 10 rida.
+Logifailis on 11 rida.
+4. See on neljas rida.
